@@ -1,6 +1,6 @@
 # Neural Network Visualisation
-A functional, scalable neural network learning in real time patterns hidden in a two-dimensional space.
-Some actions (such as **scaling the network** or **modifying the training data sets**) can only be done by editing the code at the moment. Though this isn't convenient, this can be done easily, since all the methods have already been implemented. The only thing missing is a GUI.
+A functional, scalable neural network which learns in real time hidden patterns inside a two-dimensional space.
+Some actions (such as **scaling the network** or **modifying the training data sets**) can only be done by editing the code at the moment. Though this isn't convenient, this can be done easily, since I have already implemented all the methods. The only thing missing is a GUI.
 
 ![preview](https://github.com/SimonTalaga/Neural-Network-Visualisation/blob/master/screenshots/preview.png)
 
@@ -20,7 +20,7 @@ Some actions (such as **scaling the network** or **modifying the training data s
 
 ## GenerateDataToTrain.pde
 
-To ensure that my network was working (and it does), I created another software, the counterpart of this one, to generate data of my own that can be easily implemented in my code, formatted in the right way. This is the file **GenerateDataToTrain.pde**
+To ensure my network was working (and it does), I created another software, the counterpart of this one, to generate data of my own that can be easily implemented in my code, formatted in the right way. This is the file **GenerateDataToTrain.pde**
 
 ## Screenshots
 
