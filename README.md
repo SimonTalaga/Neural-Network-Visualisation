@@ -1,6 +1,6 @@
 # Neural Network Visualisation
-A functional, scalable neural network which learns in real time hidden patterns inside a two-dimensional space.
-Some actions (such as **scaling the network** or **modifying the training data sets**) can only be done by editing the code at the moment. Though this isn't convenient, this can be done easily, since I have already implemented all the methods. The only thing missing is a GUI.
+A functional, scalable neural network which learns in real time hidden patterns in data inside a two-dimensional space.
+Some actions (such as **scaling the network** or **modifying the training data sets**) can only be done by editing the code at the moment. Though this isn't convenient, this can be done easily by modifying a mere String.
 
 ![preview](https://github.com/SimonTalaga/Neural-Network-Visualisation/blob/master/screenshots/preview.png)
 
